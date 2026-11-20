@@ -50,5 +50,8 @@ data/uploads/*
 .coverage
 htmlcov/
 
+# Local tools
+tools/
+
 # Streamlit
 .streamlit/
