@@ -1,0 +1,21 @@
+# Cybersecurity & Information Assurance Pathway (SIH25094)
+
+## Profile & Key Responsibilities
+Cybersecurity specialists protect systems, networks, and data from adversarial cyber attacks. They perform vulnerability assessments, threat modeling, security architecture reviews, and incident response.
+
+## Technical Skills Inventory
+- Network Security: TCP/IP protocols, Wireshark, firewalls, VPNs, IDS/IPS configuration.
+- Application Security: Static and Dynamic Code Analysis (SAST/DAST), prompt injection defense in LLM applications, API authentication security.
+- Cryptography: Public Key Infrastructure (PKI), AES-256 encryption, bcrypt/Argon2 password hashing, TLS 1.3 handshakes.
+- Operating Systems & Scripting: Linux shell scripting, Python automation, Windows Active Directory internals.
+
+## Staged Milestone Pathway
+- Stage 1: Fundamental networking, Linux administration, and ethical hacking fundamentals.
+- Stage 2: Web application penetration testing, vulnerability remediation, SIEM log analysis.
+- Stage 3: Enterprise threat modeling, security compliance (ISO 27001, SOC2), zero-trust architecture.
+
+## Recommended Certifications
+1. CompTIA Security+ (Foundation)
+2. Certified Information Systems Security Professional (CISSP)
+3. Certified Ethical Hacker (CEH)
+4. Offensive Security Certified Professional (OSCP)

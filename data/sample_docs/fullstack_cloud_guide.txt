@@ -1,0 +1,21 @@
+# Full-Stack Cloud & Backend Engineering Guide (SIH25094)
+
+## Overview & Role Description
+Full-Stack Cloud Engineers design, construct, and scale modern web architectures and microservice ecosystems. They bridge frontend user experiences with resilient, secure, distributed backend infrastructure.
+
+## Core Technical Competencies
+- Backend Development: Python (FastAPI, Django), Go, Node.js, asynchronous I/O, REST and GraphQL APIs.
+- Databases & Storage: PostgreSQL, SQLite (WAL mode, foreign key indexing), Redis caching, MongoDB, Vector Stores.
+- Frontend Technologies: React, TypeScript, Streamlit for rapid dashboard deployment, HTML5/CSS3.
+- Cloud & DevOps: AWS (EC2, S3, ECS, Lambda), Docker, Kubernetes, GitHub Actions CI/CD pipelines, Terraform.
+- Security & Compliance: OWASP Top 10 defenses, bcrypt salted password hashing, JWT access/refresh token management, rate limiting, and SQL injection prevention.
+
+## Career Progression & Staged Milestones
+- Beginner: Master core programming syntax, relational schema design, basic REST API endpoints, and Git workflows.
+- Intermediate: Implement robust authentication, ORM/query optimization, caching layers, containerized Docker deployments.
+- Advanced: Architect distributed microservices, message queues (Kafka, RabbitMQ), automated blue-green deployments, and high-availability clusters.
+
+## Industry-Recognized Certifications
+- AWS Certified Solutions Architect - Associate
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate

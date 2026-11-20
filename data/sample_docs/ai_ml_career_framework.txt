@@ -1,0 +1,27 @@
+# Verified AI & Machine Learning Engineering Career Framework (SIH25094)
+
+## Educational Qualifications
+Candidates typically hold a Bachelor's or Master's degree in Computer Science, Data Science, Artificial Intelligence, or Electrical Engineering. Equivalent demonstrable project experience in machine learning and distributed computing is widely accepted.
+
+## Technical Skills Required
+- Programming: Python (NumPy, Pandas, Scipy), C++, CUDA.
+- Machine Learning Frameworks: PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers.
+- System Architecture: Retrieval-Augmented Generation (RAG), ChromaDB, Faiss, Vector Embeddings.
+- Multi-Agent Orchestration: LangGraph, LangChain, Autogen, stateful cyclical workflows.
+- Model Deployment & MLOps: FastAPI, Docker, Triton Inference Server, ONNX Runtime, MLflow.
+- Mathematical Foundations: Linear Algebra, Multivariate Calculus, Probability, Mathematical Statistics.
+
+## Non-Technical & Soft Skills
+- Problem Formulation and Analytical Reasoning.
+- Scientific Rigor and Experiment Reproducibility.
+- Cross-functional Communication between Research and Product Engineering.
+
+## Recommended Certifications
+1. DeepLearning.AI Machine Learning Specialization (Coursera)
+2. Google Cloud Professional Machine Learning Engineer
+3. AWS Certified Machine Learning - Specialty
+4. DeepLearning.AI Production RAG & Multi-Agent Systems Specialization
+
+## Hands-On Capstone Project Standards
+- Build an end-to-end RAG question-answering assistant over custom PDF domain knowledge with verifiable citation attribution.
+- Develop a multi-agent recommendation engine with autonomous state routing and evaluation benchmarks.
