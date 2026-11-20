@@ -1,4 +1,4 @@
-# EduPath AI (SIH25094)
+# EduPath AI 
 
 > **Intelligent AI-Powered Educational & Career Guidance Platform**  
 > *Rebuilt with a Security-First Architecture, Advanced Dense+BM25 Hybrid RAG, and LangGraph Multi-Agent Orchestration.*
